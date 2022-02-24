@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech made by the Lord Lowden to the Lords in the Upper House of Parliament in Scotland, the 20 of Septemb., Anno 1641 concerning the restoration of the electoriall family.</title>
+            <author>Loudoun, John Campbell, Earl of, 1598-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49195</idno>
+            <idno type="STC">Wing L3088</idno>
+            <idno type="STC">ESTC R2439</idno>
+            <idno type="EEBO-CITATION">13659859</idno>
+            <idno type="OCLC">ocm 13659859</idno>
+            <idno type="VID">101091</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49195)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101091)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 794:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech made by the Lord Lowden to the Lords in the Upper House of Parliament in Scotland, the 20 of Septemb., Anno 1641 concerning the restoration of the electoriall family.</title>
+                  <author>Loudoun, John Campbell, Earl of, 1598-1663.</author>
+               </titleStmt>
+               <extent>5 [i.e. 7] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 7 incorrectly numbered 5.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101091:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 71 -->
+            <p>A SPEECH Made by The Lord Lowden To the LORDS in the upper Houſe of PARLIAMENT in <hi>Scotland,</hi> the 20 of <hi>Septemb. Anno</hi> 1641. Concerning, <hi>The Reſtoration of the Electoriall Family.</hi>
+            </p>
+            <figure>
+               <figDesc>compass rose</figDesc>
+               <p>W</p>
+               <p>E</p>
+               <p>S</p>
+            </figure>
+            <p>London Printed 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:101091:2"/>
+            <!-- PDF PAGE 72 -->
+            <pb n="3" facs="tcp:101091:2"/>
+            <!-- PDF PAGE 72 -->
+            <head>A SPEECH Made by The Lord Lovvden.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>THe great difference between the two Kingdomes <hi>England</hi> and <hi>Scotland,</hi> through the great Mercies of God being now appeaſed, and an act of ob<g ref="char:EOLhyphen"/>livion paſt of all by-gone deeds ſince the laſt troubles, we may with cheerefulneſſe and thankfulneſſe, not only ſettle all things here at home, which by reaſon of the want of the benefit of ordinary Judicature, are now out of order, with all duty and affection, but likewiſe to conſider of, and aſſiſt his Majeſty in ſuch matters &amp; enterprizes, as he ſhall be pleaſed to propound unto us. Now firſt for the difference, give mee leave to ſay ſomewhat of them; and (indeed) in ſpeaking ſome<g ref="char:EOLhyphen"/>what of them, I may hold my peace, and ſay nothing at all, for the truth is, there was no difference betweene the two Kingdomes, there were troubles, and feares on
+<pb n="2" facs="tcp:101091:3"/>
+               <!-- PDF PAGE 73 -->either ſide, but conſider, it was not through the default of the two Kingdomes, that were like to have produ<g ref="char:EOLhyphen"/>ced ſuch miſerable effects, and calamities, as were threatned, but it was the fault of malignant men, who by their wicked actions, and improvident Counſels, ſtrived (in what in them lay) to ſowe the ſeeds of diſ<g ref="char:EOLhyphen"/>cord and diſſention betwixt his Royall Majeſty, and his good ſubjects of both Kingdomes: If then theſe cala<g ref="char:EOLhyphen"/>mities, threatned and feared, were by ill inſtruments wrought and cauſed, and that now by the goodneſſe of the Almighty wiſedome of his Royall Majeſtie, and prudent endeavours of the Honourable Aſſemblies of both Kingdomes, both the cauſe and the cauſers are re<g ref="char:EOLhyphen"/>moved and averted, what cauſe is there, or can there be imagined to be, that either Kingdome or any particu<g ref="char:EOLhyphen"/>lar member of either, can be otherwiſe then really uni<g ref="char:EOLhyphen"/>ted in more tender and hearty affection one towards another then ever they were? For our Kingdome of <hi>Scotland,</hi> however the great Impoſtures of theſe trou<g ref="char:EOLhyphen"/>bles ſcattered falſe rumours and reports both in the eares of his Majeſty, and many of his loyall and good ſubjects, that wee ſhould ayme altogether at our owne ends, and that all our pretences were to inſinuate both into the hearts and eſtates of the ſubjects of <hi>England,</hi> yet I hope it hath now fully appeared to his Majeſty, and the Honourable Aſſembly of that Kingdome, and all other his loving ſubjects that will not be wilfully or maliciouſly blind, that we ſought only our owne peace both in Church and State at home, and not the leaſt prejudice (much leſſe the ruine) of our brethren of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> For the truth of this I dare boldly ſay, I may call the Northern Counties to witneſſe where our Armie
+<pb n="3" facs="tcp:101091:3"/>
+               <!-- PDF PAGE 73 -->lay, that they cannot ſay that our ſouldiers uſed them as enemies, but as friends; and that where ſuch an Armie lay ſo long time, there was never ſo little harme done to a Country, and that little which was done (I hope) ſa<g ref="char:EOLhyphen"/>tisfaction is or ſhall be ſuddainly made. And I hope none of his Majeſties good Subjects in <hi>England,</hi> will take it to be any diſhonour in granting us that ſum of money the Parliament did towards our great loſſes and charges, which have appeared to be more then double the ſum granted, but a friendly demonſtration of one Nation to another, we are brethren not enemies, and by ill inſtruments were forced both into the field, ha<g ref="char:EOLhyphen"/>ving no cauſe of malice one towards another, let miſ<g ref="char:EOLhyphen"/>chiefe then fall on neither Nations, but on thoſe inſtru<g ref="char:EOLhyphen"/>ments; let them be made exemplary, that were the cau<g ref="char:EOLhyphen"/>fers of ſuch calamities, and great let the honour be to his Majeſty, and the wiſe prudent aſſembly of both Kingdoms that have applyed themſelves to faire things, and compoſed the quarrell without ſhedding of blood, and even from a ſtate gaſping, have reſtored both King<g ref="char:EOLhyphen"/>domes to their former unity, peace, and concord, and disbanded the Armies upon reſonable conditions. Since then there is ſuch and unity betweene both King<g ref="char:EOLhyphen"/>domes, and that the Armies are both united in true hearty affection one towards another, how conſidera<g ref="char:EOLhyphen"/>ble may theſe Armies make us abroad? If God ſhall bleſſe us, then certainly thoſe Armies that were late<g ref="char:EOLhyphen"/>ly ready to offend one another, may ſhew a capabilities with unity of hearts, and well deſigned may effect great matters, and may by unity of counſell raiſe both King<g ref="char:EOLhyphen"/>domes to as good eſtimation, and as great honour in the world as ever. And how can they be better deſigned
+<pb n="4" facs="tcp:101091:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 74 -->then to reſtore the Electorical Families to their former inheritance? can there be a better cauſe then the truth of God? can there be a cauſe wherein we can be more intreſſed, then to aſſiſt his Royall Majeſties deareſt and onely Siſter, and her royall iſſue, to obtaine their law<g ref="char:EOLhyphen"/>full and rightfull Inheritance, out of which they have beene ſo long time unjuſtly diveſted? doubtleſſe there cannot. Now to the intreſt of the cauſe, let us adde his Royall Majeſties propoſition, which make all compleat. Let us therefore proceed to the perfecting of ſo religi<g ref="char:EOLhyphen"/>ous ſo lawfully, and ſo laudable a worke as this, and no doubt but our brethren of <hi>England</hi> will be as forward as we being intreſſed alike in the cauſe as we are, I ſhall here not unfitly make mention of a homely Story. I have read of an Emperour in <hi>Turky,</hi> that hearing there was civill wars in <hi>England,</hi> had a deſigne to taken the ad<g ref="char:EOLhyphen"/>vantage of the ſame, and invaded that Kingdome, but an Engliſh man being in ſome favour and eſtimation with the Emperor, and wiſhing well to his native Coun<g ref="char:EOLhyphen"/>try, cauſed a cupple of maſtiffe Dogs to be ſet together by the eares before the Emperour; and as they were fighting, cauſed a beare to be put to them, which the Dogs perceiving, left fighting, and fell both upon the Beare, which the Empetour taking notice of the Engliſh man, told him he had cauſed that to be done, to ſhew him the condition of his Country-men, who though they would fall out among themſelves, yet they would take part each with other againſt an enemy. And there<g ref="char:EOLhyphen"/>fore though they were at variance amongſt themſelves, yet it would be little advantage to his his intended un<g ref="char:EOLhyphen"/>dertaking-upon, which the Emperour changed his re<g ref="char:EOLhyphen"/>ſolution touching that deſigne.</p>
+            <pb n="5" facs="tcp:101091:4"/>
+            <!-- PDF PAGE 74 -->
+            <p>If then this were the nature of Engliſhmen, unto whom we now by the Almighties Providence are uni<g ref="char:EOLhyphen"/>ted, under one King, one Nation, and one Iſland, I doubt not but the ſame remaines, and that though wee were lately ready to offend each other, yet being now united in more tender and hearty affection one to<g ref="char:EOLhyphen"/>wards another, then ever wee were, wee ſhall hold and maintaine ſuch a good correſpondencie amongſt our ſelves, that ſhall nor onely bring both Nations to a condition of proſperity at home, but make us formi<g ref="char:EOLhyphen"/>dable to our enemies abroad.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
